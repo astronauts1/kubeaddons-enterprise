@@ -134,3 +134,20 @@ elasticsearch-exporter:
     - type: support
       title: Submit a Support Request
       link: https://d2iq.com/services-and-support
+helloworld:
+  display_name: helloworld
+  description: helloworld
+  logo: helloworld/logo.svg
+  category: helloworld
+  overview: helloworld/overview.md
+  resources:
+    provider:
+      title: helloworld
+      link: https://github.com/justwatchcom/elasticsearch_exporter
+    links:
+      - type: resources
+        title: Documentation
+        link: https://github.com/justwatchcom/elasticsearch_exporter
+      - type: support
+        title: Submit a Support Request
+        link: https://d2iq.com/services-and-support
