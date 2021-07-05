@@ -6,4 +6,4 @@ metadata:
 spec:
   priority: "1"
   url: "https://github.com/jianglu6/kubeaddons-enterprise"
-  ref: "master"
+  ref: "dev"
